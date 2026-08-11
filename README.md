@@ -1,2 +1,3 @@
 # AICW_GSSS
-15 days of spoke engineering program
+This is an intense training on **AIML** for 15 days.
+This track is **Spoke engineering**
